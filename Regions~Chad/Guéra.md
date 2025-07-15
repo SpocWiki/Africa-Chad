@@ -40,11 +40,18 @@ markerFolder: ./Guéra/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Chad/Counties/Guéra|Guéra]] 
-- [[../../../../../../_public/geo/Continent/Africa/Chad/Counties/Guéra.public|Guéra.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Chad/Counties/Guéra.internal|Guéra.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Chad/Counties/Guéra.protect|Guéra.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Chad/Counties/Guéra.private|Guéra.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Chad/Counties/Guéra.personal|Guéra.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Chad/Counties/Guéra.secret|Guéra.secret]] 
+
+### #is_/same_as :: [Guéra](/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Guéra.md) 
+
+### #is_/same_as :: [Guéra.public](/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Guéra.public.md) 
+
+### #is_/same_as :: [Guéra.internal](/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Guéra.internal.md) 
+
+### #is_/same_as :: [Guéra.protect](/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Guéra.protect.md) 
+
+### #is_/same_as :: [Guéra.private](/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Guéra.private.md) 
+
+### #is_/same_as :: [Guéra.personal](/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Guéra.personal.md) 
+
+### #is_/same_as :: [Guéra.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Guéra.secret.md)
 

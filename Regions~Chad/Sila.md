@@ -40,11 +40,18 @@ markerFolder: ./Sila/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Chad/Counties/Sila|Sila]] 
-- [[../../../../../../_public/geo/Continent/Africa/Chad/Counties/Sila.public|Sila.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Chad/Counties/Sila.internal|Sila.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Chad/Counties/Sila.protect|Sila.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Chad/Counties/Sila.private|Sila.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Chad/Counties/Sila.personal|Sila.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Chad/Counties/Sila.secret|Sila.secret]] 
+
+### #is_/same_as :: [Sila](/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Sila.md) 
+
+### #is_/same_as :: [Sila.public](/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Sila.public.md) 
+
+### #is_/same_as :: [Sila.internal](/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Sila.internal.md) 
+
+### #is_/same_as :: [Sila.protect](/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Sila.protect.md) 
+
+### #is_/same_as :: [Sila.private](/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Sila.private.md) 
+
+### #is_/same_as :: [Sila.personal](/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Sila.personal.md) 
+
+### #is_/same_as :: [Sila.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Sila.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Tandjilé/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Chad/Counties/Tandjilé|Tandjilé]] 
-- [[../../../../../../_public/geo/Continent/Africa/Chad/Counties/Tandjilé.public|Tandjilé.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Chad/Counties/Tandjilé.internal|Tandjilé.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Chad/Counties/Tandjilé.protect|Tandjilé.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Chad/Counties/Tandjilé.private|Tandjilé.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Chad/Counties/Tandjilé.personal|Tandjilé.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Chad/Counties/Tandjilé.secret|Tandjilé.secret]] 
+
+### #is_/same_as :: [Tandjilé](/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Tandjilé.md) 
+
+### #is_/same_as :: [Tandjilé.public](/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Tandjilé.public.md) 
+
+### #is_/same_as :: [Tandjilé.internal](/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Tandjilé.internal.md) 
+
+### #is_/same_as :: [Tandjilé.protect](/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Tandjilé.protect.md) 
+
+### #is_/same_as :: [Tandjilé.private](/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Tandjilé.private.md) 
+
+### #is_/same_as :: [Tandjilé.personal](/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Tandjilé.personal.md) 
+
+### #is_/same_as :: [Tandjilé.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Tandjilé.secret.md)
 

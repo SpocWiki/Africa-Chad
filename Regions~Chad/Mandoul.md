@@ -40,11 +40,18 @@ markerFolder: ./Mandoul/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Chad/Counties/Mandoul|Mandoul]] 
-- [[../../../../../../_public/geo/Continent/Africa/Chad/Counties/Mandoul.public|Mandoul.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Chad/Counties/Mandoul.internal|Mandoul.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Chad/Counties/Mandoul.protect|Mandoul.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Chad/Counties/Mandoul.private|Mandoul.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Chad/Counties/Mandoul.personal|Mandoul.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Chad/Counties/Mandoul.secret|Mandoul.secret]] 
+
+### #is_/same_as :: [Mandoul](/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Mandoul.md) 
+
+### #is_/same_as :: [Mandoul.public](/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Mandoul.public.md) 
+
+### #is_/same_as :: [Mandoul.internal](/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Mandoul.internal.md) 
+
+### #is_/same_as :: [Mandoul.protect](/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Mandoul.protect.md) 
+
+### #is_/same_as :: [Mandoul.private](/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Mandoul.private.md) 
+
+### #is_/same_as :: [Mandoul.personal](/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Mandoul.personal.md) 
+
+### #is_/same_as :: [Mandoul.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Mandoul.secret.md)
 

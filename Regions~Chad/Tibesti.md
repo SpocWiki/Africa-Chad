@@ -40,11 +40,18 @@ markerFolder: ./Tibesti/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Chad/Counties/Tibesti|Tibesti]] 
-- [[../../../../../../_public/geo/Continent/Africa/Chad/Counties/Tibesti.public|Tibesti.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Chad/Counties/Tibesti.internal|Tibesti.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Chad/Counties/Tibesti.protect|Tibesti.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Chad/Counties/Tibesti.private|Tibesti.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Chad/Counties/Tibesti.personal|Tibesti.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Chad/Counties/Tibesti.secret|Tibesti.secret]] 
+
+### #is_/same_as :: [Tibesti](/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Tibesti.md) 
+
+### #is_/same_as :: [Tibesti.public](/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Tibesti.public.md) 
+
+### #is_/same_as :: [Tibesti.internal](/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Tibesti.internal.md) 
+
+### #is_/same_as :: [Tibesti.protect](/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Tibesti.protect.md) 
+
+### #is_/same_as :: [Tibesti.private](/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Tibesti.private.md) 
+
+### #is_/same_as :: [Tibesti.personal](/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Tibesti.personal.md) 
+
+### #is_/same_as :: [Tibesti.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Tibesti.secret.md)
 

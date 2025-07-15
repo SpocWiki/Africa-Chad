@@ -40,11 +40,18 @@ markerFolder: ./Ennedi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Chad/Counties/Ennedi|Ennedi]] 
-- [[../../../../../../_public/geo/Continent/Africa/Chad/Counties/Ennedi.public|Ennedi.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Chad/Counties/Ennedi.internal|Ennedi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Chad/Counties/Ennedi.protect|Ennedi.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Chad/Counties/Ennedi.private|Ennedi.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Chad/Counties/Ennedi.personal|Ennedi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Chad/Counties/Ennedi.secret|Ennedi.secret]] 
+
+### #is_/same_as :: [Ennedi_Est](/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ennedi_Est.md) 
+
+### #is_/same_as :: [Ennedi_Est.public](/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ennedi_Est.public.md) 
+
+### #is_/same_as :: [Ennedi_Est.internal](/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ennedi_Est.internal.md) 
+
+### #is_/same_as :: [Ennedi_Est.protect](/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ennedi_Est.protect.md) 
+
+### #is_/same_as :: [Ennedi_Est.private](/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ennedi_Est.private.md) 
+
+### #is_/same_as :: [Ennedi_Est.personal](/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ennedi_Est.personal.md) 
+
+### #is_/same_as :: [Ennedi_Est.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ennedi_Est.secret.md)
 

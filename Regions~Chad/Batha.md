@@ -40,11 +40,18 @@ markerFolder: ./Batha/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Chad/Counties/Batha|Batha]] 
-- [[../../../../../../_public/geo/Continent/Africa/Chad/Counties/Batha.public|Batha.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Chad/Counties/Batha.internal|Batha.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Chad/Counties/Batha.protect|Batha.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Chad/Counties/Batha.private|Batha.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Chad/Counties/Batha.personal|Batha.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Chad/Counties/Batha.secret|Batha.secret]] 
+
+### #is_/same_as :: [Batha](/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Batha.md) 
+
+### #is_/same_as :: [Batha.public](/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Batha.public.md) 
+
+### #is_/same_as :: [Batha.internal](/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Batha.internal.md) 
+
+### #is_/same_as :: [Batha.protect](/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Batha.protect.md) 
+
+### #is_/same_as :: [Batha.private](/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Batha.private.md) 
+
+### #is_/same_as :: [Batha.personal](/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Batha.personal.md) 
+
+### #is_/same_as :: [Batha.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Batha.secret.md)
 

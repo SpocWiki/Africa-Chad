@@ -133,10 +133,4 @@ Capital :: [[N'Djamena]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Chad|Chad]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~Central/Chad.internal|Chad.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~Central/Chad.protect|Chad.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~Central/Chad.private|Chad.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~Central/Chad.personal|Chad.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~Central/Chad.secret|Chad.secret]] 
+

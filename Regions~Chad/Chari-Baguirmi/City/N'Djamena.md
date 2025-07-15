@@ -1,4 +1,4 @@
-﻿---
+---
 location: [12.1,16.03333] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Chad/City/N'Djamena|N'Djamena]] 
-- [[../../../../../../_public/geo/Continent/Africa/Chad/City/N'Djamena.public|N'Djamena.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Chad/City/N'Djamena.internal|N'Djamena.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Chad/City/N'Djamena.protect|N'Djamena.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Chad/City/N'Djamena.private|N'Djamena.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Chad/City/N'Djamena.personal|N'Djamena.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Chad/City/N'Djamena.secret|N'Djamena.secret]] 
+
+### #is_/same_as :: [N'Djamena](/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi/City/N'Djamena.md) 
+
+### #is_/same_as :: [N'Djamena.public](/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi/City/N'Djamena.public.md) 
+
+### #is_/same_as :: [N'Djamena.internal](/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi/City/N'Djamena.internal.md) 
+
+### #is_/same_as :: [N'Djamena.protect](/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi/City/N'Djamena.protect.md) 
+
+### #is_/same_as :: [N'Djamena.private](/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi/City/N'Djamena.private.md) 
+
+### #is_/same_as :: [N'Djamena.personal](/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi/City/N'Djamena.personal.md) 
+
+### #is_/same_as :: [N'Djamena.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi/City/N'Djamena.secret.md)
+

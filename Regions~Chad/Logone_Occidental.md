@@ -40,11 +40,18 @@ markerFolder: ./Logone_Occidental/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Chad/Counties/Logone_Occidental|Logone_Occidental]] 
-- [[../../../../../../_public/geo/Continent/Africa/Chad/Counties/Logone_Occidental.public|Logone_Occidental.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Chad/Counties/Logone_Occidental.internal|Logone_Occidental.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Chad/Counties/Logone_Occidental.protect|Logone_Occidental.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Chad/Counties/Logone_Occidental.private|Logone_Occidental.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Chad/Counties/Logone_Occidental.personal|Logone_Occidental.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Chad/Counties/Logone_Occidental.secret|Logone_Occidental.secret]] 
+
+### #is_/same_as :: [Logone_Occidental](/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Logone_Occidental.md) 
+
+### #is_/same_as :: [Logone_Occidental.public](/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Logone_Occidental.public.md) 
+
+### #is_/same_as :: [Logone_Occidental.internal](/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Logone_Occidental.internal.md) 
+
+### #is_/same_as :: [Logone_Occidental.protect](/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Logone_Occidental.protect.md) 
+
+### #is_/same_as :: [Logone_Occidental.private](/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Logone_Occidental.private.md) 
+
+### #is_/same_as :: [Logone_Occidental.personal](/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Logone_Occidental.personal.md) 
+
+### #is_/same_as :: [Logone_Occidental.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Logone_Occidental.secret.md)
 

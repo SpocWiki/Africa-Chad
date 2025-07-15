@@ -40,11 +40,18 @@ markerFolder: ./Mayo-Kebbi_Ouest/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Chad/Counties/Mayo-Kebbi_Ouest|Mayo-Kebbi_Ouest]] 
-- [[../../../../../../_public/geo/Continent/Africa/Chad/Counties/Mayo-Kebbi_Ouest.public|Mayo-Kebbi_Ouest.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Chad/Counties/Mayo-Kebbi_Ouest.internal|Mayo-Kebbi_Ouest.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Chad/Counties/Mayo-Kebbi_Ouest.protect|Mayo-Kebbi_Ouest.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Chad/Counties/Mayo-Kebbi_Ouest.private|Mayo-Kebbi_Ouest.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Chad/Counties/Mayo-Kebbi_Ouest.personal|Mayo-Kebbi_Ouest.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Chad/Counties/Mayo-Kebbi_Ouest.secret|Mayo-Kebbi_Ouest.secret]] 
+
+### #is_/same_as :: [Mayo-Kebbi_Ouest](/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Mayo-Kebbi_Ouest.md) 
+
+### #is_/same_as :: [Mayo-Kebbi_Ouest.public](/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Mayo-Kebbi_Ouest.public.md) 
+
+### #is_/same_as :: [Mayo-Kebbi_Ouest.internal](/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Mayo-Kebbi_Ouest.internal.md) 
+
+### #is_/same_as :: [Mayo-Kebbi_Ouest.protect](/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Mayo-Kebbi_Ouest.protect.md) 
+
+### #is_/same_as :: [Mayo-Kebbi_Ouest.private](/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Mayo-Kebbi_Ouest.private.md) 
+
+### #is_/same_as :: [Mayo-Kebbi_Ouest.personal](/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Mayo-Kebbi_Ouest.personal.md) 
+
+### #is_/same_as :: [Mayo-Kebbi_Ouest.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Mayo-Kebbi_Ouest.secret.md)
 
