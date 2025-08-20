@@ -1,38 +1,39 @@
 ---
 location:
-- 12.1
-- 16.0333
+  - 12.1
+  - 16.0333
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 27029
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Chad
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Chad
-- Tchad
-- تشاد
-- 乍得
-- Чад
-- the Republic of Chad
-- la República del Chad
-- Chad (el)
+  - Chad
+  - Tchad
+  - تشاد
+  - 乍得
+  - Чад
+  - the Republic of Chad
+  - la República del Chad
+  - Chad (el)
 Languages:
-- fr-TD
-- ar-TD
-- sre
+  - fr-TD
+  - ar-TD
+  - sre
 ---
 
 
