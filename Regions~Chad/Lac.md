@@ -25,7 +25,7 @@ publishDate:
 expiryDate:
 ---
 
-# Lac
+# [[Lac]]
 
 ```leaflet
 id: Lac
