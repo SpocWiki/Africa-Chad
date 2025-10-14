@@ -12,6 +12,9 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[N'Djamena]] 
+
 [geo-lon::16.03333] 
 [geo-lat::12.1] 
 [name::N'Djamena] 
@@ -21,12 +24,18 @@ Country :: [[Chad]]
 [Population::] 
 [Unknown::32] 
 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~N'Djamena,3659|WD~N'Djamena,3659]] 
+
+## #has_/map 
 
 ```leaflet
 id: N'Djamena
 coordinates: [[N'Djamena]] 
 markerFile: [[N'Djamena]] 
-defaultZoom: 11 
+geojsonFolder: ./N'Djamena//
+markerFolder: ./N'Djamena/
+defaultZoom: 6 
+zoomFeatures: true
 maxZoom: 18
 ```
 
