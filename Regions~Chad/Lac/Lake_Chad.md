@@ -70,3 +70,20 @@ markerFile: [[Lake_Chad]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lake%20Chad) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Lac/Lake_Chad|Lake_Chad]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Lac/Lake_Chad.public|Lake_Chad.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Lac/Lake_Chad.internal|Lake_Chad.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Lac/Lake_Chad.protect|Lake_Chad.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Lac/Lake_Chad.private|Lake_Chad.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Lac/Lake_Chad.personal|Lake_Chad.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Lac/Lake_Chad.secret|Lake_Chad.secret]] 
+

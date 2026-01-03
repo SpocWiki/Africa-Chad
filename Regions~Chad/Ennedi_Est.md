@@ -40,17 +40,17 @@ markerFolder: ./Ennedi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ennedi_Est](/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ennedi_Est.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ennedi_Est|Ennedi_Est]] 
 
-### #is_/same_as :: [Ennedi_Est.public](/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ennedi_Est.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ennedi_Est.public|Ennedi_Est.public]] 
 
-### #is_/same_as :: [Ennedi_Est.internal](/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ennedi_Est.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ennedi_Est.internal|Ennedi_Est.internal]] 
 
-### #is_/same_as :: [Ennedi_Est.protect](/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ennedi_Est.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ennedi_Est.protect|Ennedi_Est.protect]] 
 
-### #is_/same_as :: [Ennedi_Est.private](/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ennedi_Est.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ennedi_Est.private|Ennedi_Est.private]] 
 
-### #is_/same_as :: [Ennedi_Est.personal](/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ennedi_Est.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ennedi_Est.personal|Ennedi_Est.personal]] 
 
-### #is_/same_as :: [Ennedi_Est.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ennedi_Est.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ennedi_Est.secret|Ennedi_Est.secret]] 
 

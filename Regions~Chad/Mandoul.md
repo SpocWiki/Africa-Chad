@@ -40,17 +40,17 @@ markerFolder: ./Mandoul/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mandoul](/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Mandoul.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Mandoul|Mandoul]] 
 
-### #is_/same_as :: [Mandoul.public](/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Mandoul.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Mandoul.public|Mandoul.public]] 
 
-### #is_/same_as :: [Mandoul.internal](/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Mandoul.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Mandoul.internal|Mandoul.internal]] 
 
-### #is_/same_as :: [Mandoul.protect](/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Mandoul.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Mandoul.protect|Mandoul.protect]] 
 
-### #is_/same_as :: [Mandoul.private](/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Mandoul.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Mandoul.private|Mandoul.private]] 
 
-### #is_/same_as :: [Mandoul.personal](/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Mandoul.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Mandoul.personal|Mandoul.personal]] 
 
-### #is_/same_as :: [Mandoul.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Mandoul.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Mandoul.secret|Mandoul.secret]] 
 

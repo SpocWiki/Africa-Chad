@@ -40,17 +40,17 @@ markerFolder: ./Hadjer-Lamis/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hadjer-Lamis](/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Hadjer-Lamis.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Hadjer-Lamis|Hadjer-Lamis]] 
 
-### #is_/same_as :: [Hadjer-Lamis.public](/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Hadjer-Lamis.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Hadjer-Lamis.public|Hadjer-Lamis.public]] 
 
-### #is_/same_as :: [Hadjer-Lamis.internal](/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Hadjer-Lamis.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Hadjer-Lamis.internal|Hadjer-Lamis.internal]] 
 
-### #is_/same_as :: [Hadjer-Lamis.protect](/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Hadjer-Lamis.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Hadjer-Lamis.protect|Hadjer-Lamis.protect]] 
 
-### #is_/same_as :: [Hadjer-Lamis.private](/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Hadjer-Lamis.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Hadjer-Lamis.private|Hadjer-Lamis.private]] 
 
-### #is_/same_as :: [Hadjer-Lamis.personal](/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Hadjer-Lamis.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Hadjer-Lamis.personal|Hadjer-Lamis.personal]] 
 
-### #is_/same_as :: [Hadjer-Lamis.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Hadjer-Lamis.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Hadjer-Lamis.secret|Hadjer-Lamis.secret]] 
 

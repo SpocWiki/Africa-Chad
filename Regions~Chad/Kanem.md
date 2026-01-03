@@ -40,17 +40,17 @@ markerFolder: ./Kanem/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kanem](/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Kanem.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Kanem|Kanem]] 
 
-### #is_/same_as :: [Kanem.public](/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Kanem.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Kanem.public|Kanem.public]] 
 
-### #is_/same_as :: [Kanem.internal](/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Kanem.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Kanem.internal|Kanem.internal]] 
 
-### #is_/same_as :: [Kanem.protect](/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Kanem.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Kanem.protect|Kanem.protect]] 
 
-### #is_/same_as :: [Kanem.private](/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Kanem.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Kanem.private|Kanem.private]] 
 
-### #is_/same_as :: [Kanem.personal](/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Kanem.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Kanem.personal|Kanem.personal]] 
 
-### #is_/same_as :: [Kanem.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Kanem.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Kanem.secret|Kanem.secret]] 
 

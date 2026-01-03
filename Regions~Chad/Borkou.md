@@ -40,17 +40,17 @@ markerFolder: ./Borkou/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Borkou](/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Borkou.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Borkou|Borkou]] 
 
-### #is_/same_as :: [Borkou.public](/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Borkou.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Borkou.public|Borkou.public]] 
 
-### #is_/same_as :: [Borkou.internal](/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Borkou.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Borkou.internal|Borkou.internal]] 
 
-### #is_/same_as :: [Borkou.protect](/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Borkou.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Borkou.protect|Borkou.protect]] 
 
-### #is_/same_as :: [Borkou.private](/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Borkou.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Borkou.private|Borkou.private]] 
 
-### #is_/same_as :: [Borkou.personal](/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Borkou.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Borkou.personal|Borkou.personal]] 
 
-### #is_/same_as :: [Borkou.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Borkou.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Borkou.secret|Borkou.secret]] 
 

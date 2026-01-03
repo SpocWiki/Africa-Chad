@@ -40,17 +40,17 @@ markerFolder: ./Logone_Occidental/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Logone_Occidental](/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Logone_Occidental.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Logone_Occidental|Logone_Occidental]] 
 
-### #is_/same_as :: [Logone_Occidental.public](/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Logone_Occidental.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Logone_Occidental.public|Logone_Occidental.public]] 
 
-### #is_/same_as :: [Logone_Occidental.internal](/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Logone_Occidental.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Logone_Occidental.internal|Logone_Occidental.internal]] 
 
-### #is_/same_as :: [Logone_Occidental.protect](/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Logone_Occidental.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Logone_Occidental.protect|Logone_Occidental.protect]] 
 
-### #is_/same_as :: [Logone_Occidental.private](/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Logone_Occidental.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Logone_Occidental.private|Logone_Occidental.private]] 
 
-### #is_/same_as :: [Logone_Occidental.personal](/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Logone_Occidental.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Logone_Occidental.personal|Logone_Occidental.personal]] 
 
-### #is_/same_as :: [Logone_Occidental.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Logone_Occidental.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Logone_Occidental.secret|Logone_Occidental.secret]] 
 

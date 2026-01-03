@@ -40,17 +40,17 @@ markerFolder: ./Moyen-Chari/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Moyen-Chari](/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Moyen-Chari.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Moyen-Chari|Moyen-Chari]] 
 
-### #is_/same_as :: [Moyen-Chari.public](/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Moyen-Chari.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Moyen-Chari.public|Moyen-Chari.public]] 
 
-### #is_/same_as :: [Moyen-Chari.internal](/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Moyen-Chari.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Moyen-Chari.internal|Moyen-Chari.internal]] 
 
-### #is_/same_as :: [Moyen-Chari.protect](/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Moyen-Chari.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Moyen-Chari.protect|Moyen-Chari.protect]] 
 
-### #is_/same_as :: [Moyen-Chari.private](/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Moyen-Chari.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Moyen-Chari.private|Moyen-Chari.private]] 
 
-### #is_/same_as :: [Moyen-Chari.personal](/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Moyen-Chari.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Moyen-Chari.personal|Moyen-Chari.personal]] 
 
-### #is_/same_as :: [Moyen-Chari.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Moyen-Chari.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Moyen-Chari.secret|Moyen-Chari.secret]] 
 

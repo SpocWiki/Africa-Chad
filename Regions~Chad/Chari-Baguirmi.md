@@ -40,17 +40,17 @@ markerFolder: ./Chari-Baguirmi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chari-Baguirmi](/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi|Chari-Baguirmi]] 
 
-### #is_/same_as :: [Chari-Baguirmi.public](/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi.public|Chari-Baguirmi.public]] 
 
-### #is_/same_as :: [Chari-Baguirmi.internal](/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi.internal|Chari-Baguirmi.internal]] 
 
-### #is_/same_as :: [Chari-Baguirmi.protect](/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi.protect|Chari-Baguirmi.protect]] 
 
-### #is_/same_as :: [Chari-Baguirmi.private](/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi.private|Chari-Baguirmi.private]] 
 
-### #is_/same_as :: [Chari-Baguirmi.personal](/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi.personal|Chari-Baguirmi.personal]] 
 
-### #is_/same_as :: [Chari-Baguirmi.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi.secret|Chari-Baguirmi.secret]] 
 

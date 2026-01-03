@@ -40,17 +40,17 @@ markerFolder: ./Wadi_Fira/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wadi_Fira](/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Wadi_Fira.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Wadi_Fira|Wadi_Fira]] 
 
-### #is_/same_as :: [Wadi_Fira.public](/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Wadi_Fira.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Wadi_Fira.public|Wadi_Fira.public]] 
 
-### #is_/same_as :: [Wadi_Fira.internal](/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Wadi_Fira.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Wadi_Fira.internal|Wadi_Fira.internal]] 
 
-### #is_/same_as :: [Wadi_Fira.protect](/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Wadi_Fira.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Wadi_Fira.protect|Wadi_Fira.protect]] 
 
-### #is_/same_as :: [Wadi_Fira.private](/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Wadi_Fira.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Wadi_Fira.private|Wadi_Fira.private]] 
 
-### #is_/same_as :: [Wadi_Fira.personal](/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Wadi_Fira.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Wadi_Fira.personal|Wadi_Fira.personal]] 
 
-### #is_/same_as :: [Wadi_Fira.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Wadi_Fira.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Wadi_Fira.secret|Wadi_Fira.secret]] 
 

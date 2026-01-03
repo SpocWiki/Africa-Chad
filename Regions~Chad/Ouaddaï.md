@@ -40,17 +40,17 @@ markerFolder: ./Ouaddaï/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ouaddaï](/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ouaddaï.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ouaddaï|Ouaddaï]] 
 
-### #is_/same_as :: [Ouaddaï.public](/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ouaddaï.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ouaddaï.public|Ouaddaï.public]] 
 
-### #is_/same_as :: [Ouaddaï.internal](/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ouaddaï.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ouaddaï.internal|Ouaddaï.internal]] 
 
-### #is_/same_as :: [Ouaddaï.protect](/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ouaddaï.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ouaddaï.protect|Ouaddaï.protect]] 
 
-### #is_/same_as :: [Ouaddaï.private](/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ouaddaï.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ouaddaï.private|Ouaddaï.private]] 
 
-### #is_/same_as :: [Ouaddaï.personal](/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ouaddaï.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ouaddaï.personal|Ouaddaï.personal]] 
 
-### #is_/same_as :: [Ouaddaï.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ouaddaï.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ouaddaï.secret|Ouaddaï.secret]] 
 

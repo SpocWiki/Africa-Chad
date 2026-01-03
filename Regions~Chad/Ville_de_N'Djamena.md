@@ -40,17 +40,17 @@ markerFolder: ./Ville_de_N'Djamena/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ville_de_N'Djamena](/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ville_de_N'Djamena.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ville_de_N'Djamena|Ville_de_N'Djamena]] 
 
-### #is_/same_as :: [Ville_de_N'Djamena.public](/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ville_de_N'Djamena.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ville_de_N'Djamena.public|Ville_de_N'Djamena.public]] 
 
-### #is_/same_as :: [Ville_de_N'Djamena.internal](/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ville_de_N'Djamena.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ville_de_N'Djamena.internal|Ville_de_N'Djamena.internal]] 
 
-### #is_/same_as :: [Ville_de_N'Djamena.protect](/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ville_de_N'Djamena.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ville_de_N'Djamena.protect|Ville_de_N'Djamena.protect]] 
 
-### #is_/same_as :: [Ville_de_N'Djamena.private](/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ville_de_N'Djamena.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ville_de_N'Djamena.private|Ville_de_N'Djamena.private]] 
 
-### #is_/same_as :: [Ville_de_N'Djamena.personal](/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ville_de_N'Djamena.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ville_de_N'Djamena.personal|Ville_de_N'Djamena.personal]] 
 
-### #is_/same_as :: [Ville_de_N'Djamena.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ville_de_N'Djamena.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Ville_de_N'Djamena.secret|Ville_de_N'Djamena.secret]] 
 

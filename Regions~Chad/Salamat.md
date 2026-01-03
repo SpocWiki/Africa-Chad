@@ -40,17 +40,17 @@ markerFolder: ./Salamat/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Salamat](/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Salamat.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Salamat|Salamat]] 
 
-### #is_/same_as :: [Salamat.public](/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Salamat.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Salamat.public|Salamat.public]] 
 
-### #is_/same_as :: [Salamat.internal](/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Salamat.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Salamat.internal|Salamat.internal]] 
 
-### #is_/same_as :: [Salamat.protect](/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Salamat.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Salamat.protect|Salamat.protect]] 
 
-### #is_/same_as :: [Salamat.private](/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Salamat.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Salamat.private|Salamat.private]] 
 
-### #is_/same_as :: [Salamat.personal](/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Salamat.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Salamat.personal|Salamat.personal]] 
 
-### #is_/same_as :: [Salamat.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Salamat.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Salamat.secret|Salamat.secret]] 
 

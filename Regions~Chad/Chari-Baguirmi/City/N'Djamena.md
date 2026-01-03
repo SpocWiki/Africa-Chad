@@ -42,17 +42,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [N'Djamena](/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi/City/N'Djamena.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi/City/N'Djamena|N'Djamena]] 
 
-### #is_/same_as :: [N'Djamena.public](/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi/City/N'Djamena.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi/City/N'Djamena.public|N'Djamena.public]] 
 
-### #is_/same_as :: [N'Djamena.internal](/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi/City/N'Djamena.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi/City/N'Djamena.internal|N'Djamena.internal]] 
 
-### #is_/same_as :: [N'Djamena.protect](/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi/City/N'Djamena.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi/City/N'Djamena.protect|N'Djamena.protect]] 
 
-### #is_/same_as :: [N'Djamena.private](/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi/City/N'Djamena.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi/City/N'Djamena.private|N'Djamena.private]] 
 
-### #is_/same_as :: [N'Djamena.personal](/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi/City/N'Djamena.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi/City/N'Djamena.personal|N'Djamena.personal]] 
 
-### #is_/same_as :: [N'Djamena.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi/City/N'Djamena.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Chari-Baguirmi/City/N'Djamena.secret|N'Djamena.secret]] 
 

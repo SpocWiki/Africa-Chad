@@ -39,17 +39,17 @@ markerFolder: ./Lac/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lac](/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Lac.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Lac|Lac]] 
 
-### #is_/same_as :: [Lac.public](/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Lac.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Lac.public|Lac.public]] 
 
-### #is_/same_as :: [Lac.internal](/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Lac.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Lac.internal|Lac.internal]] 
 
-### #is_/same_as :: [Lac.protect](/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Lac.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Lac.protect|Lac.protect]] 
 
-### #is_/same_as :: [Lac.private](/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Lac.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Lac.private|Lac.private]] 
 
-### #is_/same_as :: [Lac.personal](/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Lac.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Lac.personal|Lac.personal]] 
 
-### #is_/same_as :: [Lac.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Lac.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Lac.secret|Lac.secret]] 
 

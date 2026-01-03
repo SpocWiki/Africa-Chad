@@ -40,17 +40,17 @@ markerFolder: ./Barh_El_Gazel/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Barh_El_Gazel](/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Barh_El_Gazel.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Barh_El_Gazel|Barh_El_Gazel]] 
 
-### #is_/same_as :: [Barh_El_Gazel.public](/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Barh_El_Gazel.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Barh_El_Gazel.public|Barh_El_Gazel.public]] 
 
-### #is_/same_as :: [Barh_El_Gazel.internal](/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Barh_El_Gazel.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Barh_El_Gazel.internal|Barh_El_Gazel.internal]] 
 
-### #is_/same_as :: [Barh_El_Gazel.protect](/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Barh_El_Gazel.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Barh_El_Gazel.protect|Barh_El_Gazel.protect]] 
 
-### #is_/same_as :: [Barh_El_Gazel.private](/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Barh_El_Gazel.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Barh_El_Gazel.private|Barh_El_Gazel.private]] 
 
-### #is_/same_as :: [Barh_El_Gazel.personal](/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Barh_El_Gazel.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Barh_El_Gazel.personal|Barh_El_Gazel.personal]] 
 
-### #is_/same_as :: [Barh_El_Gazel.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Barh_El_Gazel.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Chad/Regions~Chad/Barh_El_Gazel.secret|Barh_El_Gazel.secret]] 
 
