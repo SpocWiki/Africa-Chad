@@ -2,35 +2,35 @@
 aliases:
 has_id_wikidata: Q125309
 inflows:
-  - "[[_Standards/WikiData/WD~Chari_River,135477]]"
-  - "[[_Standards/WikiData/WD~Logone_River,645191]]"
-  - "[[_Standards/WikiData/WD~Yobe_River,1199792]]"
-  - "[[_Standards/WikiData/WD~Ngadda_River,4787000]]"
-drainage_basin: "[[_Standards/WikiData/WD~Chad_Basin,575245]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Far_North,823976]]"
+  - "[[_Standards/WikiData/WD~Chari_River,135477|WD~Chari_River,135477]]"
+  - "[[_Standards/WikiData/WD~Logone_River,645191|WD~Logone_River,645191]]"
+  - "[[_Standards/WikiData/WD~Yobe_River,1199792|WD~Yobe_River,1199792]]"
+  - "[[_Standards/WikiData/WD~Ngadda_River,4787000|WD~Ngadda_River,4787000]]"
+drainage_basin: "[[_Standards/WikiData/WD~Chad_Basin,575245|WD~Chad_Basin,575245]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Far_North,823976|WD~Far_North,823976]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917|WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
 heritage_designation:
-  - "[[_Standards/WikiData/WD~Tentative_World_Heritage_Site,1459900]]"
-  - "[[_Standards/WikiData/WD~Ramsar_site,19683138]]"
+  - "[[_Standards/WikiData/WD~Tentative_World_Heritage_Site,1459900|WD~Tentative_World_Heritage_Site,1459900]]"
+  - "[[_Standards/WikiData/WD~Ramsar_site,19683138|WD~Ramsar_site,19683138]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~endorheic_lake,9019918]]"
-  - "[[_Standards/WikiData/WD~aeolian_lake,11054716]]"
+  - "[[_Standards/WikiData/WD~endorheic_lake,9019918|WD~endorheic_lake,9019918]]"
+  - "[[_Standards/WikiData/WD~aeolian_lake,11054716|WD~aeolian_lake,11054716]]"
 World_Heritage_criteria:
-  - "[[_Standards/WikiData/WD~(v),23038979]]"
-  - "[[_Standards/WikiData/WD~(ii),23038976]]"
-  - "[[_Standards/WikiData/WD~(iii),23038977]]"
-  - "[[_Standards/WikiData/WD~(vii),23038981]]"
-  - "[[_Standards/WikiData/WD~(ix),23038985]]"
+  - "[[_Standards/WikiData/WD~(v),23038979|WD~(v),23038979]]"
+  - "[[_Standards/WikiData/WD~(ii),23038976|WD~(ii),23038976]]"
+  - "[[_Standards/WikiData/WD~(iii),23038977|WD~(iii),23038977]]"
+  - "[[_Standards/WikiData/WD~(vii),23038981|WD~(vii),23038981]]"
+  - "[[_Standards/WikiData/WD~(ix),23038985|WD~(ix),23038985]]"
 country:
-  - "[[_Standards/WikiData/WD~Chad,657]]"
-  - "[[_Standards/WikiData/WD~Cameroon,1009]]"
-  - "[[_Standards/WikiData/WD~Niger,1032]]"
-  - "[[_Standards/WikiData/WD~Nigeria,1033]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
+  - "[[_Standards/WikiData/WD~Chad,657|WD~Chad,657]]"
+  - "[[_Standards/WikiData/WD~Cameroon,1009|WD~Cameroon,1009]]"
+  - "[[_Standards/WikiData/WD~Niger,1032|WD~Niger,1032]]"
+  - "[[_Standards/WikiData/WD~Nigeria,1033|WD~Nigeria,1033]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+01_00,6655|WD~UTC+01_00,6655]]"
 elevation_above_sea_level: 100
 volume_as_quantity: 6.3
 perimeter: 650
