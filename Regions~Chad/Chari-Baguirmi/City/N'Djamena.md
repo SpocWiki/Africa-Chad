@@ -37,7 +37,7 @@ markerFolder: ./N'Djamena/
 defaultZoom: 6 
 zoomFeatures: true
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

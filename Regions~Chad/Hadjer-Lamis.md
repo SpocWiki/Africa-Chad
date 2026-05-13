@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Hadjer-Lamis/
 markerFolder: ./Hadjer-Lamis/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

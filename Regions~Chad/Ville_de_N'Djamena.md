@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Ville_de_N'Djamena/
 markerFolder: ./Ville_de_N'Djamena/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

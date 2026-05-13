@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Logone_Occidental/
 markerFolder: ./Logone_Occidental/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Mayo-Kebbi_Est/
 markerFolder: ./Mayo-Kebbi_Est/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

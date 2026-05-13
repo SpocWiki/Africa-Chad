@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Batha/
 markerFolder: ./Batha/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

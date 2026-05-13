@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Logone_Oriental/
 markerFolder: ./Logone_Oriental/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

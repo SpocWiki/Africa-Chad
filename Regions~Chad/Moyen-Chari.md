@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Moyen-Chari/
 markerFolder: ./Moyen-Chari/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

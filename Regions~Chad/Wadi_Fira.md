@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Wadi_Fira/
 markerFolder: ./Wadi_Fira/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
