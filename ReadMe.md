@@ -321,7 +321,7 @@ dv_UNTERM_Chinese_Formal: 乍得共和国
 dv_UNTERM_French_Formal: la République du Tchad
 dv_UNTERM_Russian: Чад
 dv_UNTERM_Russian_Formal: Республика Чад
-dv_Region_Name: "[[../../Africa|Africa]]"
+dv_Region_Name: "[[../../../Africa|Africa]]"
 dv_Intermediate_Region_Name: "[[Middle Africa]]"
 dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
 dv_Region: 2
@@ -349,7 +349,7 @@ dv_ISO2: TD
 dv_ISO3: TCD
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Chad,657|WD~Chad,657]]"
+    - "[[../../../../../WikiData/WD~Chad,657|WD~Chad,657]]"
     - "[[/_Standards/Earth/Continent/Africa/Africa~Central/Chad|Chad]]"
     - "[[/_public/Earth/Continent/Africa/Africa~Central/Chad.public|Chad.public]]"
     - "[[/_internal/Earth/Continent/Africa/Africa~Central/Chad.internal|Chad.internal]]"
@@ -360,17 +360,17 @@ dv_is_:
 dv_has_name_de: Tschad
 dv_Area-Total: 1284000
 dv_Area-Land: 1259200
-dv_has_place_continent: "[[../../Africa|Africa]]"
+dv_has_place_continent: "[[../../../Africa|Africa]]"
 dv_VehicleCode: TD
 dv_Capital: "[[N'Djamena]]"
 dv_Alcohol-l: 4.4
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 16.0333
 dv_has_place_latitude: 12.1
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Chad
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Chad,657|WD~Chad,657]]"
+  - "[[../../../../../WikiData/WD~Chad,657|WD~Chad,657]]"
   - "[[/_Standards/Earth/Continent/Africa/Africa~Central/Chad|Chad]]"
   - "[[/_public/Earth/Continent/Africa/Africa~Central/Chad.public|Chad.public]]"
   - "[[/_internal/Earth/Continent/Africa/Africa~Central/Chad.internal|Chad.internal]]"
@@ -942,7 +942,7 @@ ITU_letter_code: TCD
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Chad/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/properties  
 
@@ -1032,7 +1032,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Chad_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1060,9 +1060,9 @@ Capital = `=this.dv_Capital`
 
 ![[Coat_of_arms_of_Chad.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Chad.mp3|Anthem-Chad.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Chad.mp3|Anthem-Chad.mp3]]
 
-![[Chad/Flag_of_Chad.svg|350]]
+![[Flag_of_Chad.svg|350]]
 
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
